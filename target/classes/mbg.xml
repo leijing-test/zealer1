@@ -42,7 +42,7 @@
 
 
 		<!-- table指定每个表的生成策略 -->
-		<table tableName="users" domainObjectName="Users"></table>
+		<table tableName="lecturer" domainObjectName="Lecturer"></table>
 
 	</context>
 </generatorConfiguration>
